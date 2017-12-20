@@ -1,0 +1,5 @@
+experian\rabbit\application\Application.class
+experian\rabbit\configuracao\RabbitMQConfig.class
+experian\rabbit\controller\RabbitMQWebController.class
+experian\rabbit\service\RabbitMQSender.class
+experian\rabbit\fila\Elemento.class
